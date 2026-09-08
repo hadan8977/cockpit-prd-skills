@@ -1,0 +1,4 @@
+interface:
+  display_name: "座舱 PRD 写作"
+  short_description: "用自然中文写清座舱需求、产品判断、交互规则与验收依据"
+  default_prompt: "用 $cockpit-prd-writing 基于我提供的材料撰写或修订座舱 PRD，先理顺论证和行为规则，再调整表达，说明实质修改。"
